@@ -10,7 +10,7 @@ const Navbar = () => {
       <Link href="/">DBM</Link>
       <ul className={style.list}>
         <li className={style.listItem}>
-          <Link rel="" type="" href="product/design">
+          <Link rel="" type="" href="/products/design">
             DESIGN
           </Link>
         </li>
